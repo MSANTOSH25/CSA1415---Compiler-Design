@@ -1,9 +1,0 @@
-sample.c:
-#include<stdio.h>
-int main()
-{
-int a = 30;
-return 0;
-}
-
-Output: Each source line is printed with a line number.
