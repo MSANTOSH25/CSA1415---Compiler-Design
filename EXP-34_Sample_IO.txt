@@ -1,2 +1,0 @@
-Input: 15/08/2005
-Output: Valid DOB
