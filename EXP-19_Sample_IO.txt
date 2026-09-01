@@ -1,0 +1,9 @@
+sample.c:
+int main()
+{
+    int a = 10;
+    printf("%d", a);
+    return 0;
+}
+
+Output: Character, line and word counts are displayed.

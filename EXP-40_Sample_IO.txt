@@ -1,0 +1,4 @@
+Input:
+int a = 10;
+a = a + 20;
+Output: Tokens are displayed with appropriate captions.

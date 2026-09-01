@@ -1,0 +1,8 @@
+sample.c:
+#define PI 3.14
+int main(){ int a = 30; float b = 25.5; }
+
+Output:
+Constant: 3.14
+Constant: 30
+Constant: 25.5

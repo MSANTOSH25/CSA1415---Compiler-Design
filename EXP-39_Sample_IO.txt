@@ -1,0 +1,9 @@
+input.txt:
+Compiler design is easy.
+Compiler design is interesting.
+
+Word to replace: Compiler
+New word: Lexical
+Output file contains:
+Lexical design is easy.
+Lexical design is interesting.

@@ -1,0 +1,2 @@
+Input: 20 + 10
+Output: Result = 30

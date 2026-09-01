@@ -1,0 +1,4 @@
+sample.html:
+<html><body><h1>Hello</h1><p>Welcome</p></body></html>
+
+Output: All HTML tags are printed.
