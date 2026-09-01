@@ -1,8 +1,0 @@
-Input:
-int main() { float number; return 0; }
-Output:
-Keyword : int
-Identifier : main
-Keyword : float
-Identifier : number
-Keyword : return
