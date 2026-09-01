@@ -1,8 +1,0 @@
-sample.c:
-#define PI 3.14
-#include<stdio.h>
-#include<conio.h>
-
-Output:
-Number of Macros = 1
-Number of Header Files = 2
