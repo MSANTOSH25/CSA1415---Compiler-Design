@@ -1,3 +1,0 @@
-Input: Compiler Design
-Output:
-Number of consonants = 8
