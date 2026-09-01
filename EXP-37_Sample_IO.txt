@@ -1,3 +1,0 @@
-Input word: compiler
-Sentence: compiler design is easy and compiler design is useful
-Output: Frequency of compiler = 2
