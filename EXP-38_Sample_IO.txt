@@ -1,4 +1,0 @@
-Input: Compiler design laboratory
-Output:
-Longest word = laboratory
-Length = 10
