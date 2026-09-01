@@ -1,5 +1,0 @@
-Input:
-int a = 30;
-printf("hello");
-
-Output: Keywords, identifiers, constants, operators, strings and symbols are displayed.
