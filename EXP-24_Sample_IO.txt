@@ -1,5 +1,0 @@
-input.c contains // and /* */ comments.
-Output:
-Number of comments = 2
-Comments removed successfully.
-output.c contains the source without comments.
